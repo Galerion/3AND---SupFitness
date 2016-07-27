@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SupFitness</string>
+    <string name="addWeight">"<b>Please add your weight.</b>"</string>
+
+</resources>
